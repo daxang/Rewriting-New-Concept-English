@@ -16,15 +16,3 @@
 1. turn around: 1,转身；2，经营好转;
 2. irritate: vt & vi 激怒
 ```
-***
-
-=======
-> The mad man was irritated, and shouted back in a red face, "it's none of your business, this is an private conversation, okay!"    
-
-*02*
->This is a common story in the theatres and cinemas
-***
-><turn around>: 1,转身；2，经营好转
-
-***
->>>>>>> 0505b2a93a0cf4c8f20b3618cce69469ef00e9a5
