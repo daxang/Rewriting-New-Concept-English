@@ -48,3 +48,22 @@
 what a day
 ```
 
+# Lesson 3 Please send me a card
+
+*01*
+
+>Cindy is a girl who likes travling, but most of the travles spoiled by postcards。why？ Because she and her friends always think the postcards are the necessary part of holiday. one time ,Cindy went to Italy for fun. In the first days, she visited museums and castles. She sat in public garden in one break, one gentle waiter gave her a book written in Italy and taught her some Italy words, she read it all day but understood few. All the days there, she thought about cards all the time and couldn't really enjoy the travle. One day morning, she got up very early, run into a shop and bought thirty-seven cards. She locked herself in the hotel room all day, but till the next morning, she wrote no single word and sent no single card. When she got up in the dim morning, she said to herself," shit!" 
+
+*02*
+
+> I like traveling much but hate postcards, postcards are devil for everyone's holidays. One time, I went to Italy for business and personal fairs. After the business meetings, I wandered in the streets of Rome, visited the museums and parks, when i sat in one public garden, a beautiful waitress lent me a Italian book and taught me some Italian words. I had a little happy time there. In fact, what I was really thinking about all the time is to send cards to my friends, so they would knew and envy my journey. Last day, I got up very early, run into a shop and bought thirty-seven cards and locked myself in the room. But when the pen picked up, I found no reason and no words to write. At last, I just left the hotel with all the cards left.
+
+***
+
+## Words and phrases
+
+```
+spoil:vt. 溺爱；糟蹋；破坏；掠夺;vi. 掠夺；变坏；腐败;n. 次品；奖品   
+      溺爱就是糟蹋和破坏，就是掠夺孩子的天性
+```
+
