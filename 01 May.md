@@ -67,3 +67,20 @@ spoil:vt. 溺爱；糟蹋；破坏；掠夺;vi. 掠夺；变坏；腐败;n. 次�
       溺爱就是糟蹋和破坏，就是掠夺孩子的天性
 ```
 
+# Lesson 4 An exciting trip
+*01*
+
+>My name is Tim, and I am an American. As a graduate from MIT, I'm an engineer working on agriculture machines. Six months ago, I came Australia to help local clients and farmers.Before, I never go abroad, so it is very interesting and exciting for me coming here. Everyday after work, I wandered in the streets in the local city. On weekends, I would drive my car--bought here--- to go to every beautiful places .It is wonderful. You know, Australia is a strange country with cities far away with each other, so sometimes, I would fly to a city.Next weekend, I will visit Darwin, and from there, I would fly to Perth. My experience is so exciting, that I can't help writing a long letter to my brother Tom.
+
+*02*
+
+> My son Tim is an engineer who is working in Australia for a big company. He is always our pride since a child. We were not a rich family, and had no much money to send him and Tom----Tim's brother, also our pride baby---to the best colleges for better eduction. But he learned hard and never got trouble for us. In 2018, he got his master degree from a good college as an engineering graduate. With no doubt, he was recruited by a big international machine company in America. After a year of wonderful work, he was sent on foreign assignment to Australia. Before, he and Tom never went abroad. He loved Australia very much, every weekends, he would drive in the cities he's working in . Sometimes, he would take a plane to a city. It sounds amazing for us, especially for Tom. Tim always write to Tom, telling him the exciting travelings he's enjoying, and encouraging him to study hard and make his dream true. Tom replied with firm resolution.
+
+***
+
+## Words and phrases
+
+```
+
+```
+
