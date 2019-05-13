@@ -83,4 +83,20 @@ spoil:vt. 溺爱；糟蹋；破坏；掠夺;vi. 掠夺；变坏；腐败;n. 次�
 ```
 
 ```
+# Lesson 5 No wrong numbers
 
+*01*
+>James Scott is my neighbour, he is a very interesting man. Mr Scott has a garage in London,  in which he earns so much money. His business goes very well, and this summer he bought another garage in the countryside.But then he met a tough question: he couldn't get a telephone for his new garage. One day we drunk beer in a bar, I joked,"why don't you just raise some pigeons to pass messages, no telephones,no wrong numbers".He hesitated for a moment and laughed,"yes, you are right!".Next afternoon, he called me and said he really bought twelve pigeons. Last friday, his one pigeon took a message from the countryside garage to the other successfully. The little animal covered the whole distance in three minutes. Up to now, my neighbour has sent a great many requests for spare parts and other urgent messages . In this way, the Scott Mail Service company is doing business well.
+
+*02*
+>I work in a telephone service company, Mr Scott is one of my clients. My client has a very successful garage in the city, and we always have a great business relationship. However, our relationship begin to break for a telephone. Mr Scott bought a new garage in the countryside, so he could make money on the farmers and it worked. The distance of his two garages is five kilometers. One day, he came to me for a new telephone for his new garage. Our company didn't have business there(it is just so ridiculous), so he didn't get the telephone. The man was irritated and shouted in manager's office, "that's bullshit, I could raise pigeons, you and your telephones go to hell!". 
+>It  surprised me that his pigeons began to pass the messages between the garages after a week. Up to now, Mr Scott has sent a great many request for spare parts and other urgent messages, all the messages would be sent in five minutes. Without us, Mr Scott has his own private telephone service, and no wrong numbers with the pigeons. I think he would thank our company.
+***
+
+## Words and phrases
+```
+pigeon:鸽子  raise pigeon：养鸽子 或者keep pigeon
+up to now:到目前为止
+cover (the distance):行走（一段路程）
+spare:多余的
+```
