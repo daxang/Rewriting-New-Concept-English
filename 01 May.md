@@ -100,3 +100,28 @@ up to now:到目前为止
 cover (the distance):行走（一段路程）
 spare:多余的
 ```
+
+
+
+# Lesson 6 Who is Percy Buttons?
+
+*01*
+
+> I got a job in Huangdao five days ago, and moved here quickly. This morning, when I was having my breakfast, someone knocked the door. It was a beggar asking for a meal and a glass of beer. You know, people of Huangdao like beer very much. the beggar said to me in a polite way, if I could meet his request ,he would stand on his head and sing a song for me. I gave him a meal and he ate the food and drank the beer. I didn't let him do the things promised and he left. Later, a neighbour told me about the beggar. Everybody here knows him well. His name is Percy Buttons and he is from England. He calls at every house in the street once a month and always asks for a meal and beer.
+
+
+
+*02*
+
+> I am a rich man in Qingdao，I like to make fun from doing something special. Now I am operating a we-media organization, my partner wanted to cover a page about beggars in the city one year ago. So he disguised himself as a foreign beggar (cuz his face looks like a foreigner) , and began to beg in HuangDao district. He begged in about five streets for about five months. He would call at every house in one street all the day, when the doors opened, he asked for a meal and a glass of beer. Everyone was interested in his ask and always make fun of him. One day, he got a idea, he told the benefactors he would stand on the head and sang songs for them in return. After hearing that, no one really asks him to do that and no one makes fun of him anymore.My partner, in the name of Percy Buttons, said to me, "it's funny"
+
+***
+
+## Words and phrases
+
+```
+beggar:not begger 要饭乞讨人     benefactor:施主，同donor
+stand on one's head:倒立
+disguise oneself as:把自己假扮成
+```
+
