@@ -125,3 +125,20 @@ stand on one's head:倒立
 disguise oneself as:把自己假扮成
 ```
 
+
+
+# Lesson 7   Too late
+
+*01*
+>I would like to tell you a good story, stranger. Maybe you know I am a detective of Beijing airport, yesterday our department received a message that some thieves would steal a parcel of diamonds carried by a plane which would arrive at airport this morning. So we all waiting in the airport all the morning, and the plane was late . I keep my position in the main building to watch people with my two colleagues, while three other boys in the airfield. The plane arrived finally at nine o'clock, two men took the parcel off the plane. Our three boys guided them through the special aisle into the building. I entered the safe room with them, and my colleagues kept guard at the door. One man opened the parcel. To our surprise, there were no precious diamonds in there but full of stones and sand!
+
+*02*
+>I heard a wonderful story from a detective who is working at the airport. One day, they were ordered to keep guarding at the airport, in case one precious parcel of diamonds stolen by thieves. The freight airplane was late, and the detective and his collegues waited there all the morning. He was kept in the main building watching everything unordinary, while others were keeping guard in the airfield. The plane arrived finally, and the parcel was taken in a safe room quickly. However, to everyone's surprise, it was full of stones and sand, not diamonds!
+***
+## Words and phrases
+```
+parcel:n. 包裹，小包;vt. 打包；捆扎  parcel post:邮政包裹
+freight：n. 货运；运费；船货；v. 运送；装货；使充满 freight airplane：货运飞机
+keep guard:守卫 警卫 保卫
+expect：等待，期待 
+```
