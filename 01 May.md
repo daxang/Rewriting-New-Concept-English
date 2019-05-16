@@ -142,3 +142,17 @@ freight：n. 货运；运费；船货；v. 运送；装货；使充满 freight a
 keep guard:守卫 警卫 保卫
 expect：等待，期待 
 ```
+
+# Lesson 8  The best and the worst
+
+*01*
+>Here we are in the competition of  the nicest garden , everyone is welcomed to enter. I would like to show you Joe's garden, Joe is a legenary person who has won all the champions of the competitions. He has the most beautiful garden in our town. Bill also has a wonderful garden, much bigger, much more vegetables and flowers and trees. But Joe's garden is more interesting, he made bridges over a pool, and some neat paths accross the garden.
+>Ok, now I am with the winner of the worst garden, kim. Kim is a naturalist who takes less time on the garden. He likes garden but not working on it. So he always gets a little prize for the worst garden.
+
+*02*
+>Joe Sanders has the most beautiful garden in our town. Nearly everyone enters for "the nicest garden competition" each year, but Joe wins every time. Bill Frith's garden is larger than Joe's. Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting. He has made neat paths and has built a wooden bridge over a pool. I like gardens too. But I do not like hard work. Every year I enter for the game too, and I always get a little prize for the worst garden in the town.
+
+## Words and phrases
+```
+1 参加比赛可以用enter，participate in 。enter for
+```
