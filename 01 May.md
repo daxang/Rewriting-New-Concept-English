@@ -156,3 +156,16 @@ expect：等待，期待
 ```
 1 参加比赛可以用enter，participate in 。enter for
 ```
+
+# Lesson 9  A cold welcome
+
+*01*
+> On wednesday evening, we went to the Town Hall. It was the last day of the year, and a large crowd of people had gathered under the Town Hall Clock. It would strike twelve in  twenty minutes' time. Fifteen minutes passed  and then, at five to twelve, the clock stopped. The big minute hand didn't move. We watched and just waited and waited, but nothing happeded. Suddenly someone shouted."It's five minutes passed twelve! The clock has stopped!" I looked at my watch. It was true. The big clock refused to welcome the new year. At the moment, everybody began to laugh and sing.
+
+*02*
+>On Friday evening, I went to a town hall with my local friend. It was the last night of the year, and everyone in the town had gathered under the hall clock. We would like to give the new year a big warm welcome. The clock would strike twelve in twenty minutes. But the big minute hand just stopped at five to twelve. No one knew what happened, and everyone just waited and waited.Suddenly,  a man shouted,"oh my! It's five passed twelve!" I looked at my watch, yes ,it was five passed twelve, and we already had been in a new year.At that time, everyone laughed and sang songs . The clock refused to welcome the new year!
+***
+## Words and phrases
+```
+1. strike:钟表敲响 strike twelve 钟表敲十二响
+2. minute hand：分针
