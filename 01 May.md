@@ -45,7 +45,7 @@
 ## Words and phrases
 
 ```
-what a day
+3.what a day
 ```
 
 # Lesson 3 Please send me a card
@@ -63,7 +63,7 @@ what a day
 ## Words and phrases
 
 ```
-spoil:vt. 溺爱；糟蹋；破坏；掠夺;vi. 掠夺；变坏；腐败;n. 次品；奖品   
+4.spoil:vt. 溺爱；糟蹋；破坏；掠夺;vi. 掠夺；变坏；腐败;n. 次品；奖品   
       溺爱就是糟蹋和破坏，就是掠夺孩子的天性
 ```
 
@@ -95,10 +95,10 @@ spoil:vt. 溺爱；糟蹋；破坏；掠夺;vi. 掠夺；变坏；腐败;n. 次�
 
 ## Words and phrases
 ```
-pigeon:鸽子  raise pigeon：养鸽子 或者keep pigeon
-up to now:到目前为止
-cover (the distance):行走（一段路程）
-spare:多余的
+5.pigeon:鸽子  raise pigeon：养鸽子 或者keep pigeon
+6.up to now:到目前为止
+7.cover (the distance):行走（一段路程）
+8.spare:多余的
 ```
 
 
@@ -120,9 +120,9 @@ spare:多余的
 ## Words and phrases
 
 ```
-beggar:not begger 要饭乞讨人     benefactor:施主，同donor
-stand on one's head:倒立
-disguise oneself as:把自己假扮成
+9.beggar:not begger 要饭乞讨人     benefactor:施主，同donor
+10.stand on one's head:倒立
+11.disguise oneself as:把自己假扮成
 ```
 
 
@@ -137,10 +137,10 @@ disguise oneself as:把自己假扮成
 ***
 ## Words and phrases
 ```
-parcel:n. 包裹，小包;vt. 打包；捆扎  parcel post:邮政包裹
-freight：n. 货运；运费；船货；v. 运送；装货；使充满 freight airplane：货运飞机
-keep guard:守卫 警卫 保卫
-expect：等待，期待 
+12.parcel:n. 包裹，小包;vt. 打包；捆扎  parcel post:邮政包裹
+13.freight：n. 货运；运费；船货；v. 运送；装货；使充满 freight airplane：货运飞机
+14.keep guard:守卫 警卫 保卫
+15.expect：等待，期待 
 ```
 
 # Lesson 8  The best and the worst
@@ -154,7 +154,7 @@ expect：等待，期待
 
 ## Words and phrases
 ```
-1 参加比赛可以用enter，participate in 。enter for
+16.参加比赛可以用enter，participate in 。enter for
 ```
 
 # Lesson 9  A cold welcome
@@ -167,5 +167,21 @@ expect：等待，期待
 ***
 ## Words and phrases
 ```
-1. strike:钟表敲响 strike twelve 钟表敲十二响
-2. minute hand：分针
+17. strike:钟表敲响 strike twelve 钟表敲十二响
+18. minute hand：分针
+```
+
+# Lesson 10 Not for jazz
+
+*01*
+>Our family owns an ancient musical instrument: clavichord, and it belongs to us for a really long time. The instrument was made in Germany in about 1681.Last week, it was demaged by a bitch. The bitch girl was playing jazz on it! She struck the keys so hard and two strings were broken. My father was so angry that he kicked the bitch out of the room. Last friday, the instrument was repaired by a friend, now it is kept in a safe place of the living room.
+
+*02*
+>One day, I was drinking my black tea in my little shop, enjoying the sunshine of the day. My friend james broke into my shop and showed me something seems like muscial instrument. Aha, it was his family's ancient clavichord. The instrument was his family's treasure, last time I saw it was in the living room. I was refused to play music on it.My friend told me that the instrument was demaged by a girl who was play jazz on it. She played the keys so hard , two strings were broken. Fortunately, I was good at repairing anything. Few days later, he got his treasure back home and kept it in a safer place.
+***
+## Words and phrases
+```
+19.clavichord:翼琴 竖琴 古钢琴
+20.play jazz on the musical instrument:用乐器演奏爵士乐
+
+```
