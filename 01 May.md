@@ -183,5 +183,19 @@
 ```
 19.clavichord:翼琴 竖琴 古钢琴
 20.play jazz on the musical instrument:用乐器演奏爵士乐
+```
 
+
+# Lesson 11 One good turn deserves another
+
+*01*
+> One day I was eating my dinner at a restaurant while Ben steele came in. Steele was a good-looking man but had a bad reputation on his behaviors. He worked in a lawyer's office years ago, now he is working in a bank. Both the two jobs pay him a handsome salary. But he always borrows money from friends and never pays back. He saw me and sat with me straightly. We had some conversations , and suddenly one idea came into my mind: He never borrowed money from me! Partly for funny, I asked him to lend me some money. To my surprise, without any hesitation, Steele lended me about 200 usd in cash immediately. And then, he said,"since I have never borrowed money from you, now you can pay for my dinner." okay!
+
+*02*
+>What a life! I have studied and worked so hard since a child, because I was raised in a poor family with a drunk dad. Money is always the most difficult topic in our family. I worked in a lawyer's office years ago, now I am working in a bank as legal consultant. Both the jobs pay me handsomely. But money is always in shorage for me, so I had to borrow money from my friends one year ago. I know now I have a bad reputation for never giving the money back. One day I entered a restaurant for dinner, and one of my friend was also there. I went to sit with her. We had a great conversation while having our dinner. Suddenly she asked me to lend her some money. I knew she didn't lack of money . Without any hesitation, I gave her some money in cash. She looked like astonished as a naive girl. I joked to her, " since I have never borrowed money from you, now you can pay for my dinner!"
+***
+## Words and phrases
+```
+21:one good turn deserves another: turn:behaviour
+22：get a good salary
 ```
