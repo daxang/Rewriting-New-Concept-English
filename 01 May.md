@@ -199,3 +199,17 @@
 21:one good turn deserves another: turn:behaviour
 22：get a good salary
 ```
+
+# Lesson 12   Goodbye and good luck
+
+*01*
+>I has a captain friend named James. He is my neighbour, and we always play football together. He will set off next morning, and all of us will go to the harbour where his lovely boat--Topsail--berthed and say goodbye and good luck to him. Topsail is a beautiful small boat which has crossed the the atlantic severial times. James will enter a sailing race and be away for about two months. we surely will miss him so much.
+
+*02*
+> I am Charles and I am a captain, tomorrow I will take part in an important race across the Atlantic with my lovely boat--Topsail. I will meet my neighours and friends at the harbour tomorrow morning. I will set out at eight o'clock tomorrow ,so we have a long time to say goodbye, and I will show them my boat. I will be away for months, and I will really miss them.
+***
+## words and phrases
+```
+23.harbour:vi&vt:藏匿庇护停泊；n：海港
+24.set out:出发；开始；陈述；陈列
+```
