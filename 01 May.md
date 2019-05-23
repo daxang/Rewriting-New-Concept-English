@@ -213,3 +213,18 @@
 23.harbour:vi&vt:藏匿庇护停泊；n：海港
 24.set out:出发；开始；陈述；陈列
 ```
+
+# Lesson 13   The Greenwood Boys
+
+*01*
+> The Greenwood Boys are a group of young pop singers. At present, they are visiting all parts of the country. They will be arriving here tomorrow. They will be coming by train and most of the young people in the town will meet them at the station. Tomorrow evening they will be singing at the Worker's Club. The Greenwood Boys will be staying for five days. During this time, they will give five performances. As usual, the police will have a difficult time. They will be trying to keep order. It is always the same on these occasions.
+
+*02*
+> I am a member of The Greenwood Boys , and we are a group of pop singers. These days , we are travling around the country for business performances. Tomorrow , we will be arriving at a lovely town by train. At the station, we will meet our lovely fans and take selfies with them.  Tomorrow evening, we will be singing at the Worker's Club. We will stay there for five days according to our plan, and give our fans five performances.
+> If we have some spare time, we will go to local police station,they will have a difficult time during our staying time. They will be trying to keep order while we are singing. It is always the same on these occasions.
+***
+## words and phrases
+```
+25. on these occasions: 在这种情况下
+26. at present：目前
+```
