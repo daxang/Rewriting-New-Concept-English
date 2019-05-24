@@ -228,3 +228,19 @@
 25. on these occasions: 在这种情况下
 26. at present：目前
 ```
+
+#Lesson14 Do you speak English?
+*01*
+>At present, I am visiting all parts of France. One day,  I experienced one amusing thing. I left one town and was driving on to another. On the road, one young man waved to me. He asked if i could offer him a lift. As soon as he came into the car, I said hello to him in French, and he replied in the same language! Apart from a few words, I didn't know any other words of French. We both kept in silience. 
+>when we arrived at the town, the young man finally speaked to me  slowly,"do you speak english?".At that time, I realised he is english!
+
+*02*
+>I had an amusing experience last year.After i had left a small town in the south of France, I drove on to the next town. On the way, a young man waved to me. I stopped and he asked me for a lift. As soon as he had got into the car, I said good morning to him in French and he replied in the same language. Apart from a few words, I do not know any French at all. Neither of us spoke during the journey. I had nearly reached the town, when the young man suddenly said, very slowly, "do you speak English?" As i soon learnt, he was English himself!
+***
+## words and phrases
+```
+27. amusing:好笑的有趣的
+28. drive on: 继续开车
+29. ask for a lift:请求搭车   = get a ride
+30. apart from:除…之外
+```
