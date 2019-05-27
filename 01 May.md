@@ -244,3 +244,23 @@
 29. ask for a lift:请求搭车   = get a ride
 30. apart from:除…之外
 ```
+
+# Lesson 14   Good news
+
+*01*
+> The secretary told me that Mr Hamson would see me. I was very nervous when I heard the news, because  our company was downsizing at that time. I went into my boss' office, he didn't look up from the desk when I entered. After a while , he looked at me and said,"have a sit, please!" Then he told me that the firm couldn't afford  the total salaries of  all the senior staff, so most of them would leave in a week. I knew my turn had come.
+> "But Mr Hamson, I ...",  I would like to tell the importance of my work in a weak voice.
+> "Don't interrupt", he said in a smile.
+> And then he told me that I would get an extra thousand pounds a year! 
+
+*02*
+>The secretary told me that Mr James would see me. I felt very nervous when I went into his office. He did not look up at me from his desk when I entered. After I had sat down, he said that business was very bad.  He told me that the firm could not afford to pay such large salaries. Twenty people had already left. I knew my turn had come.
+>"Mr James," I said in a weak voice,
+>"Don't interrupt", he said.
+>Then he smiled and told me, I would get an extra thousands pounds a year!
+***
+## words and phrases
+```
+31. the business is very bad
+32. my turn had come
+```
