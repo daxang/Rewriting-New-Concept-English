@@ -245,7 +245,7 @@
 30. apart from:除…之外
 ```
 
-# Lesson 14   Good news
+# Lesson 15   Good news
 
 *01*
 > The secretary told me that Mr Hamson would see me. I was very nervous when I heard the news, because  our company was downsizing at that time. I went into my boss' office, he didn't look up from the desk when I entered. After a while , he looked at me and said,"have a sit, please!" Then he told me that the firm couldn't afford  the total salaries of  all the senior staff, so most of them would leave in a week. I knew my turn had come.
@@ -264,3 +264,17 @@
 31. the business is very bad
 32. my turn had come
 ```
+
+# Lesson 16  A polite request
+*01*
+>In European countries, if a car is parked in the wrong area, the owner would receive a ticket. Sometimes, a polite and kind-hearted traffic policeman maybe just gives you a kind notice. And that thing happened to me once in Sweden last year. I rented a car when I travelled in the capital city, one afternoon, I parked the car outside a cafe. When I got out the cafe and saw a notice stuck on the windshield, and it said so:"Hello stranger, welcome to our beautiful country! But it is wrong to park your car here and you should drive it away as soon as you can. This is a reminder!" 
+>The notice was so polite that you should do nothing but to obey it!
+*02*
+>If you park you car in the wrong placec, a traffic policeman will soon find it. You will be very lucky if he lets you go without any ticket. However, this does not always happen.Traffic police are sometimes very polite. During a holiday in Sweden, I found this note on my car :"Sir, we welcome you to our city. This is a  'No Parking' area. You will enjoy your stay here if you pay attention to our street signs. This note is only a reminder.
+>If you receive a request like this, you cannot fail to obey it!
+***
+## words and phrases
+```
+33.ticket:除了票，还有罚单的意思
+34.reminder：提醒
+35.you cannot fail to obey it: fail to 不能
