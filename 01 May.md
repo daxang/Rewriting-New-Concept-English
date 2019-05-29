@@ -278,3 +278,13 @@
 33.ticket:除了票，还有罚单的意思
 34.reminder：提醒
 35.you cannot fail to obey it: fail to 不能
+```
+# Lesson 17 Always young
+*01*
+>My aunt Jenifer is an actress. She must be at least thirty-two years old, but she always acts the charctors of young girls. Jennifer will take part in a theatre soon. This time, she will be a girl about seventeen years old. she will dress a red skirt and long black stockings. Last year in another play, she had to wear short socks and a bright, orange-colored dress. If anyone ever asks her how old she is , she always answers,"oh , darling, it must be very terrible to be grown up".
+*02*
+>My aunt Jennifer is an actress. She must be at least thirty-two years old. In spite of this, she always appears on the stage as a young girl. This time, she will take part in a new play soon. She will be a seventeen years old girl. In the play, she must appear in a bright red dress and long black stockings. Last year in another play, she had to wear short socks and a bright, orange-colored dress. If anyone ever asks how old she is, she always answers,"oh, darling, it must be terrible to be grown up"
+***
+## words and phrases
+```
+36.take part in a new play:take part in 参演
