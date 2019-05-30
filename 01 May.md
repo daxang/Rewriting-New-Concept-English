@@ -288,3 +288,22 @@
 ## words and phrases
 ```
 36.take part in a new play:take part in 参演
+```
+# Lesson18 He often does that!
+*01*
+>I was living a village one month ago. One day, when I had my brunch in a pub, I couldn't find my bag, all the money and cards were in the bag. I remembered the bag was just left beside the door, but there was nothing there. At that time, the landlord came to me with a smile, and asked me:
+>"How did you enjoy your meal?"
+>"It's great, but I can't pay the meal because my bag was lost here!" I replied with a little complaint.
+>"Just one minute!" The landlord smiled and went out. Within two minutes, he came back with my bag in his hand."I am very sorry. It is our dog james, he taked the bag out into the garden. He often does that!"
+*02*
+>After I had had lunch at a village pub, I looked for my bag. I had left it on a chair beside the door, and now it wasn't there! As I was looking for it, the landlord came in.
+>"Did you have a good meal?" he asked.
+>"Yes, thank you," I answered, "but I can't pay the bill, I havn't got my bag".
+>The landlord smiled and immediately went out. In a few minutes he returned with my bag and gave it to me.
+>"I am very sorry," He said, "my dog had taken it into the garden. He often does that!"
+***
+## words and phrases
+```
+37.pub:小酒店
+38.landlord：店主
+39.did you have a good meal?
