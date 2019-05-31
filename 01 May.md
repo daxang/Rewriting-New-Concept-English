@@ -307,3 +307,36 @@
 37.pub:小酒店
 38.landlord：店主
 39.did you have a good meal?
+```
+
+# Lesson19  Sold out
+*01*
+>Last night, I went to watch a show with Susan. 
+>"The play maybe begin at any moment, so we should hurry up!" I said to Susan.
+>"I think the play has already begun," she said in a voice of complaint.
+>I hurried to the ticket office, "May I have two tickets,please?".
+>"I'm sorry, but the tickets have been sold out!" the girl inside told me.
+>"What a pity!" Susan exlaimed.
+>Suddenly a man rushed into the ticket office and asked the girl,"could I return these two tickets?", the girl replied,"of course".
+>After the man got his money and left, I returned to the ticket office,"could I take the two tickets?","of course, but I have to tell you that they are for next Wednesday's performance."
+>"That's fine, I take them as well".
+*02*
+>"The play may began at any moment," I said.
+>"The play may have begun already", Susan answered.
+>I hurried to  the ticket office."May I have two tickets,please?"I asked.
+>"I'm sorry, but we've sold out", the girl said.
+>"What a pity," Susan exclaimed.
+>Just then, a man hurried to the ticket office.
+>"Can I return these two tickets please?"
+>"Certainly," the girl said.
+>I returned to the ticket office at once.
+>"May I have these two tickets please?" I asked.
+>"Certainly," the girl said."But they're for next Wednesday's performance, do you still want them?"
+>"I might as well have them", I said saddly.
+***
+## words and phrases
+```
+40. at any moment:随时
+41. hurry to somewhere:急匆匆赶到某地
+42. we've sold out:我们卖完了 = the tickets are sold out
+43. return:退票，用return
