@@ -340,3 +340,17 @@
 41. hurry to somewhere:急匆匆赶到某地
 42. we've sold out:我们卖完了 = the tickets are sold out
 43. return:退票，用return
+```
+
+# Lesson 20  One man in a boat
+*01*
+>Fishing is my favourite sport. I often fish for hours without catch anything. But this doesn't worry me. Some fishermen have bad luck, they always catch nothing but old boots and rubbish. However, I have much less luck, I always get nothing, even the old boots. But I keep being happy on the road home with an empty bag. My friends sometimes say to me,"James, I think you should give up fishing, it is a waste of time for you, and you should do something useful for your health and body!".
+>No, they never understand, they like John. The real joy not lies in the fishing time, but sitting in the boat daydreaming by yourself!
+
+*02*
+>Fishing is my favourite sport. I often fish for hours without catching anything. But this does not worry me. Some fishermen are unlucky. Instead of fish, they catch old boots and rubbish. I am even less lucky. I never catch anything---not even old boots. After having spent whole morning on the river, I always go home with an empty bag. "You must give up fishing!" My friends say. "It's a waste of time!" But they don't realise one important thing. I'm not really interested in fishing. I am only interested in sitting in a boat and doing nothing at all.
+***
+## words and phrases
+```
+44. a waste of time
+
