@@ -353,4 +353,17 @@
 ## words and phrases
 ```
 44. a waste of time
+```
+
+# Lesson 21  Mad or not
+*01*
+>I was almost been driven mad those days living in the town nearby a airport. Day and night, the passing planes can be heard. The airport was built years ago, for some unkownable reasons, it wasn't been used for some days.However, it was started last year, and began to bother all the people living nearby. Some hundreds of people had left when they got the pension from the government at the first time.But I stayed, I like the place where I was born and raised.Everyone thought I must be mad, Sometimes I agreed with them. One day, a huge plane was landing on the airport, the noise was so big that I wondered the house would be knocked down. Next week, I left the house and moved to a much more silent place.
+
+*02*
+> Aeroplanes are slowly driving me mad. I live near an airport and passing planes can be heard night and day. The airport was built years ago, for some reasons, it could not be used then. Last year, however, it came into use. Over a hundred people must have been driven away from their homes by the noise. I am one of the few people left. Sometimes I think this house will be knocked down by a passing plane. I have been received a great sum of money to go away, but I  am determined to stay here. Everybody says I must be mad and they are probably right.
+***
+## words and phrases
+```
+45.drive sb mad
+```
 
