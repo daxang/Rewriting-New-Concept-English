@@ -366,4 +366,23 @@
 ```
 45.drive sb mad
 ```
+# Lesson 22 Letters from holland
+*01*
+>I am jane and I live in Boston. Last year, I went to Holland for a travel with my parents. Walking and driving through the Channel was such wonderful experience. Last day, I wrote my name and my address on a paper and then put it into a bottle. The bottle was thrown into the sea by my father. We then got back to Boston. I never dreamed of receiving a letter from Holland. Ten months later, a cute postman called at our house and gave me a letter. It was totally a surprise. The letter was from a girl who got my bottle in Holland . With no doubt, we started our friendship by writting to each other frequently. Why we decide to use a post office, because although letters cost a bit more, but they will certainly travel faster.
+*02*
+>My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland. Last year, we were travelling across the Channel and Jane put a piece of papaer with her name and address on it into a bottle. She threw the bottle into the sea. She never thought of it again, but ten months later, she received a letter from a girl in Holland. Both girls write to each other regularly now. However, they decided to use the post office. Letters will cost a little more,but they certainly travel faster.
+***
+## words and phrases
+```
+46.a girl of her own age
+47.think of sth
+```
+
+
+
+
+
+
+
+
 
