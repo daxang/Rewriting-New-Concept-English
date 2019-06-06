@@ -366,7 +366,7 @@
 ```
 45.drive sb mad
 ```
-# Lesson 22 Letters from holland
+# Lesson 22 A glass envelope
 *01*
 >I am jane and I live in Boston. Last year, I went to Holland for a travel with my parents. Walking and driving through the Channel was such wonderful experience. Last day, I wrote my name and my address on a paper and then put it into a bottle. The bottle was thrown into the sea by my father. We then got back to Boston. I never dreamed of receiving a letter from Holland. Ten months later, a cute postman called at our house and gave me a letter. It was totally a surprise. The letter was from a girl who got my bottle in Holland . With no doubt, we started our friendship by writting to each other frequently. Why we decide to use a post office, because although letters cost a bit more, but they will certainly travel faster.
 *02*
@@ -378,6 +378,16 @@
 47.think of sth
 ```
 
+# Lesson 23 A new house
+*01*
+>Yesterday I received a letter from my sister. She lived in Nigeria for about three years. In the letter, she said she would go back to england next month. I wrote a letter to her yesterday evenning, telling that she can live with us in our new house. We bought a house in the country in the year she left. Works on the house took us about a month. Now the house is the most famous one in our district, with numbers of beautiful rooms and a wonderful huge garden full of trees and flowers. We really would like my sister to live with us, she can get any one of the rooms. Because she is a very kind person, and always give us help, we both love her so much.
+*02*
+> I had a letter from my sister yesterday. She lives in Nigeria. In her letter, she said that she would come back to england next year.If she comes, she will get a surprise. We are now living in a beautiful new house in the country. Work on it had begun before my sister left. The house was completed five months ago. In my letter, I told her that she can stay with us. The house has many large rooms and there is a lovely garden. It is a very modern house, so it looks strange to some people. It must be the only modern house in the district.
+***
+## words and phrases
+```
+48. in the letter:在信上
+```
 
 
 
