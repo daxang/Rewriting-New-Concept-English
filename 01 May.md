@@ -389,8 +389,22 @@
 48. in the letter:在信上
 ```
 
+#Lesson24 if could be worse
 
+*01*
+>I  checked in this beautiful hotel yesterday happily but now I am in the hotel's manager's room in angry mood. I told him that someone had stolen 50$ in my room, the manager seemed very sorry, but he said he could do nothing to help,"about tens of these things occured these days, we really can't find out who was to blame." fuck you.Maybe it's your subsidies or the ordinary workers. When we both sat there and felt upset, a young girl knocked the door. After entering the room, she gave the manager an envoelop,"it contains about 50$, found outside of this gentleman's room".How greetful this is. I stand up in high spirit, "there is still some honesty in this world"
 
+*02*
+> I entered the hotel manager's room and sat down. I had just lost 50$ and I felt very upset. "I left the money in the room", I said,"and it is not there now". The manager was sympathetic, but he could do nothing."Everyone's losing money these days", he said. He started to complain about this wicked world but was interrupted by a knock at the door. A girl came in and put an envelop on his desk. It contained 50$. 'I found this outside this gentleman's room", she said. "Well", I said to the manager,"there is still some honesty in this wicked world"
+***
+## words and phrases
+```
+49. wicked world:wicked,adj. 邪恶的；恶劣的；不道德的；顽皮的;
+50. wick:n. 灯芯，蜡烛心;vt. 依靠毛细作用带走;
+51. it contains 50$:信封里包了50块钱
+52. outside the room,不是outside of the room
+53. a knock at the door
+```
 
 
 
