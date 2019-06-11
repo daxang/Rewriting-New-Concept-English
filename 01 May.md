@@ -405,7 +405,19 @@
 52. outside the room,不是outside of the room
 53. a knock at the door
 ```
+# Lesson25 Do the English speak English?
 
+*01*
+>Yesterday evenning, I finally arrived at the railway station. The station was big, dark and black. I could find my way to the hotel that I ordered online. So I went to a porter nearby and asked him.As a foreigner, I tried to speak english in a much slow and clean way, as my english teacher taught in the class. However, the porter seemed to be confused, he didn't understand what I had told him.I repeated several times to him and at last he understood.Then he started telling me how to find the way, holy god, I couldn't get anything of what he said, it was a totally different language. I applogized and said I was a foreigner, he then spoke in a much slower way. I finally got his idea, and he said to me,"you will learn english here!" 
+>I wondered on the way to the hotel, everyone in england speaks a different language. The English people understand each other, but I don't understand them.Do they really speak english?
+
+*02*
+>I arrived at the railway station at last, the station was big, moisty, dark and black. I didn't know the way to the hotel, so i asked a porter. i not only spoke english very slowly, but very clearly as well. However, the porter didn't understand me. I repeated my questions several times and finally he understood me. He answered me, but he spoke neither carefully nor clearly."I am a foreigner", i told him. Then he spoke slowly, but I couldn't understand him.My teacher never speak english like that. The porter and i looked at each other and both smiled. Then he said something and i understood it."You will soon learn english!" he said. i wonder, in england, everyone speaks in a different language, but they can understand each other, but i don't understand them! do they really speak english?
+***
+## words and phrases
+```
+54.he not only speaks very carefully, but very clearly as well: not only, but 不止，，而且 ，更多时候是not only， but also
+```
 
 
 
