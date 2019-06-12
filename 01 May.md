@@ -418,7 +418,24 @@
 ```
 54.he not only speaks very carefully, but very clearly as well: not only, but 不止，，而且 ，更多时候是not only， but also
 ```
+# Lesson26 The best art critics
+*01*
+>My boy tongtong is an art student which would be graduate from central acadamy of fine arts with great acheivements, he has painted a lot of traditional and modern pics. To be honestly, my wife and i really know little about modern art, but sometimes, we pretend to really appreciate what the modern works are "about". One day, my son talked with us, he said some of modern works just were pretty pics, with no significant meanings within them.And he joked that even his little sister was more good at appreciating modern arts than us. the little girl notices more, he said, and always gives him some true advice.
+>He told a story about him and his sisiter. One day, he was hanging one of his work onto the wall in the living room, our daughter came in, and asked her brother," what are you doing?","i am hanging this one onto the wall, so everyone can appreciate it. how do you like it?", our boy asked.
+>"enmm, i think it's upside down".tongtong stopped to look at the pics, the girl was right. it was really a great story, and our big shot of modern art didn't know his work.
 
+*02*
+>I am an art student, and i paint a lot of pictures. Many people pretend that they understand modern art. they always tell you what a picture is "about".of course, many pictures are not "about"anything. They are just pretty patterns. we like them in the same way we like the curtain material.i think young children often appreciate modern arts better than anyone else.they notice more.my sister is only seven, but she always tell me whether my pictures are good or bad. she came into my room yesterda.
+>"what are you doing", she asked.
+>"i am hanging this picture on the wall," i answered,"it is a new one, do you like it?"
+>she looked at it critically for a moment,"it's all right, but isn't it upside down?"
+>i looked at again,she was right, it was!
+***
+## words and phrases
+```
+55.upside down:上下颠倒
+56.pretty patterns:好看的图样。pattern：n. 模式；图案；样品；vt. 模仿；以图案装饰；vi. 形成图案；
+```
 
 
 
