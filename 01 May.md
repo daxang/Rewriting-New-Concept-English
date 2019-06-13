@@ -436,6 +436,20 @@
 55.upside down:上下颠倒
 56.pretty patterns:好看的图样。pattern：n. 模式；图案；样品；vt. 模仿；以图案装饰；vi. 形成图案；
 ```
-
+# Lesson27  A wet night
+*01*
+>It was the wet night that i will not forget forever. In september 1994, we boys went out for camping at a day. late in the afternoon, we tried out best to put up a tent. After finishing that job, all of us were hungry, so we began to cook meal by ourselves in the middle of the field.The meal was delicious and smelled wonderful. Then we sang songs and told stories one by one. some time later it began to rain, we all hurried into the tent. our sleeping bags were warm and we all sleeped soundly. 
+>In the midnight, i was woken up the strange sound, it sounded like someone pissing in the tent. When i realised the truth, i began to shove the others and shouted. everyone woke up .water was flowing in our tent. we all hurried outside the tent.It had been raining so heavily that a stream formed in the field, and then flowed right under our tent.
+*02*
+>late in the afternoon, the boys put up a tent in the middle of a field. as soon as this was done, they began to cook a meal over an open fire.they were all hungry and the meal smelled good. after a wonderful meal, they told stories and sang songs by the campfire. but some time later, it began to rain. the boys felt tired and they put out the fire and crept into the tent. their sleeping bags were warm and comfortable, so they all sleeped soundly. in the middle of the night, two boys woke up and began shouting.the tent was full of water, they all leapt out of their sleeping bags and hurried outside.it rained heavily and they found that a stream had formed in the field. the stream wound its way across the field and then flowed right under the tent!
+***
+## words and phrases
+```
+57.put up a tent:搭帐篷，put up；
+58.by the campfire:在营火旁，by，在...旁边；
+59.creep：vi. 爬行；蔓延；慢慢地移动；起鸡皮疙瘩；n. 爬行；毛骨悚然的感觉；谄媚者；非玩家控制的小兵（游戏术语）；
+60.sleep soundly:睡得很好；
+61.wind its way:曲折蜿蜒。wind,n. 风；呼吸；气味；卷绕;vt. 缠绕；上发条；使弯曲；吹号角；绕住或缠住某人;vi. 缠绕；上发条；吹响号角
+```
 
 
