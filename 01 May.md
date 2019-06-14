@@ -452,4 +452,15 @@
 61.wind its way:曲折蜿蜒。wind,n. 风；呼吸；气味；卷绕;vt. 缠绕；上发条；使弯曲；吹号角；绕住或缠住某人;vi. 缠绕；上发条；吹响号角
 ```
 
+# Lesson 28 No parking!
 
+*01*
+>My neighbour is Jasper, he is the rare people that believes in ancient myths. He bought a great house here last year ,so we began to know each other. After a few days he moved here, he started complaining the cars parking outside his garage. most of days, when he came back after work, there always was a car parked outside his garage, he had to dial the number to call the cars owners.sometimes it worked, sometimes it didn't. one day one idea came into his mind, he thought that would be great and wonderful. when I went to see what he did, i saw a strange and ugly stone head in front of the garage. i asked jasper what the hell the stone head was. he told me that was Medusa, a monster  in Ancient Greek age, that could make the cars and the owners into stone ones.however, the cars were still parked in the same place, and none of them was turned into stone.
+*02*
+>Jasper was one the rare people who believes in ancient myths.  he has just bought a new house in the city, but ever since he moved into the new house, he has had troubles with cars and their owners. when he returned home at night, he often finds that someone has parked their cars outside his gate.Because of this, he couldn't get his car into his garage even once. Jasper has put up a "no parking"sign outside his gate, but it doesn't work. Now he has put an ugly stone head over the gate. It is one the ugliest faces that i have ever seen. i asked him what it was and he told me that it was medusa, the gorgon. jasper hopes that she will turn cars and the owners to stone. but none of them has been turned into stone yet!
+***
+## words and phrases
+```
+62.Medusa;
+63.ancient myths;
+```
