@@ -464,3 +464,24 @@
 62.Medusa;
 63.ancient myths;
 ```
+
+# Lesson29 Taxi!
+*01*
+>I was once a captain flying the planes, when i retired last year, i bought a special taxi to began my second working life. the special taxi is a swiss aeroplane called "medusa", it is also a second-hand plane . last septembler, i started my startup, from then on, i flewed to some very unusual places. The first time, i flew an old doctor from birminham to a long-distance village in welsh. the plane was great because it can land on snow, water, even the concret roof, isn't it wonderful and exciting!  one time, i landed my passenger on the ploughed field in scotland and five minutes later, the "medusa" took us away into the sky very easily. now i know my taxi plane well, and i know what can i do with it.last week, i refused a high order from a boss, because he wanted to go to a small island in the atlantic, the journey was too far and too dangerous, i didn't want to fight with the hurricans and waves!
+*02*
+>Captain Ben has bought an unusual taxi and has begun a new service. his taxi is a mall swiss aeroplane call a "pilatus porter".this wonderful plane could carry seven passengers. the most surprising thing about it, is that it can land anywhere:on snow, water,or even on a ploughed field.Captain ben's first passenger was a doctor who flew from birmingham to a lonely village in the mountains in welsh. since then,captain ben has flown passengers to many unusual places. once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park. capatain ben just refused a strange request from a business man. the man wanted to fly to rockall, a lonely island in the atlantic ocean,but captain ben didn't take him because the trip was too dangerous.
+***
+## words and phrases
+```
+64.fly somebody somewhere:把某人空运到某地；
+65.flat:有公寓的意思
+```
+
+
+
+
+
+
+
+
+
