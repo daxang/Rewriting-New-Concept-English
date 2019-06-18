@@ -477,7 +477,20 @@
 65.flat:有公寓的意思
 ```
 
-
+# Lesson 30 Football or polo?
+*01*
+>By the river Wayle i really enjoy my life. Wayle is a small river that cuts across the park. i always sit by the river on fine afternoons, seeing people walking around, thinking about something past. it was a good day last friday, so i still went to have a seat on the bank, watching some kids playing football in the field. in the river, a man was driving his boat slowly and comfortably. some others were rowing behind him. the boys were running, shouting very loudly and excited. suddenly, a boy tried his best to kick the ball. out of control, the ball flew away right into the boat. everyone was shouting at the man in the boat, but it was too far for the man to notice the voices. the ball hitted the man right on the head so hard that he almost fell into the river. he didn't know what happened, and looked around with the dirty football. the boys disappeared  in one second.
+>the man finally acknowledged the truth, and laughed for a while. then he called the boys out to the field.some minutes later, the boys gathered in the field again, the man threw the ball back to them, and went on driving his boat.
+*02*
+>The Wayle is a small river that cuts across the park near my home. i liking sitting by the river on fine afternoons. it was warm last friday, so i went and sat on the bank as ususal.some children were playing games on the bank. some men were rowing on the river. suddenly, one of the kids kicked a ball so hard that it went towards a passing boat. some people on the bank called out to the man in the boat, but he didn't hear them. the ball struck him so hard that he almost fell into the river. i turned to look at the children, but there wasn't anyone in sight.they had all run away! the man laughed when he realised what happened. he called out to the children and threw the ball back to them.
+***
+## words and phrases
+```
+66.on the river bank;
+67.cut across;
+68.row:n. 行，排；划船；街道；吵闹;vt. 划船；使……成排;vi. 划船；争吵;
+69.call out:唤起；出动；大声叫唤 ,基本用法是call Out to somebody
+```
 
 
 
