@@ -491,8 +491,15 @@
 68.row:n. 行，排；划船；街道；吵闹;vt. 划船；使……成排;vi. 划船；争吵;
 69.call out:唤起；出动；大声叫唤 ,基本用法是call Out to somebody
 ```
-
-
+# Lesson 31 success story
+*01*
+>one day, i had a very good conversation with an old man, Frank. he was now as kind as your grandfather always smiling at you.he told me his experiences as a young man. now he is retired from the head of a big international corporation manufacturing aeroplane spare parts. when he was seventeen years old, he went to a local kfc doing cleaning job. then, he followed a buddy into a bike shop, he repaired the broken bikes there for 14 hours a day. he came out and bought a shop by himself, his own shop made the spare parts for the aeroplane companies and cars, and it gained huge success for the excellent products and high effiency. he quickly owned about four companies and seven hundred workers in his thirties.at the end the stories, he told me with a kind smile: you should work as hard as you can, but you also should enjoy your life. without fun of life, work means nothing. suddenly, the door was opened, and his wife came in. she wanted him to repair his grandson's bike.
+*02*
+>yesterday afternoon frank hawkins told me his apperiences as a young man. before retired, frank was the head of a big international company, but as a young boy, he used to work in a small shop. it was his job to repair the bikes in the shop for fourteen hours a day, he saved money for years and in 1958 he bought a small workshop of his own. in his twenties, frank used to make spare parts for aeroplanes. at that time, he had two helpers. in a few year, the small workshop became a large factory which employed seven hundred workers. frank smiled when he remembered the hard years and the long road to success. he was still smiling when the door opened and his wife came in. she wanted him to repair their grandson's bike.
+***
+## words and phrases
+```
+```
 
 
 
