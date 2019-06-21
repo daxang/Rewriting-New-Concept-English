@@ -499,9 +499,22 @@
 ***
 ## words and phrases
 ```
+
 ```
 
 
 
+# Lesson 32 Shopping made easy
 
+*01*
+>Under the stagnant economy, many people become not as honest as usual, we now have more theives and robbers. Jone is an deligent woman who is also tall and beautiful, got a lot respects from colleagues and neighbours. however , a piece of shocking news astonished everyone: she was arrested for stealing dress from a big shop with the help of his lovely girl. about before two months, the shop began to be stolen somthing every weeks,especially the priceful dress. the guard of the shop considered jone as the theif. so he began to follow her every time she entered  the shop. on a workday, the shop was empty with few people shopping , so it was a good time to follow her. the guard found that jone picked up a beautiful dress  in hand, it seemed she liked it very much. After looking around, jone put the dress into the shopping assistant's hands, the later wrapped the dress up as soon as possible and put it into jone's parcel. jone then left the aisle to the door, she obviously wouldn't wanto to pay for it. with no doubt, jone was arrested outside the shop.and so did the assistant, that was her daughter. the daughter worked with her mother stealing something expensive every week. it was sad!
+*02*
+>people are not so honest as they once were. the temptation to steal is greater than ever before--especially in large shops. a detective recently watched a well-dressed woman who always went into a large store on Monday mornings. One monday, there were few people in the shop when the woman came in, so it was easy to watche her.the woman first bought a few articles. after a little time, she chose one of the most expensive dress and handed it to an assistant who wrapped it up for her as quickly as she could.then the woman simply took the parcel and walked out of the shop without paying. when she was arrested, the detective found out that the shop assistant was her daughter. the girl gave her mom a free dress every week.
+***
+## words and phrases
+```
+70.article:此处有“物品”的意思；
+71.wrap something up:包裹；圆满完成；（使）穿得暖和（wrap somebody/yourself up）；注意力完全集中于....;
+72.
+```
 
