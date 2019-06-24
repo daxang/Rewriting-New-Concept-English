@@ -517,4 +517,16 @@
 71.wrap something up:包裹；圆满完成；（使）穿得暖和（wrap somebody/yourself up）；注意力完全集中于....;
 72.
 ```
+# Lesson 33 Out of the darkness
+*01*
+>About a month passed before the poor girl was able to explain what really happened to her. One afternoon, she set out from the coast to a small island in a small boat and was caught in a storm. Towards evening, the boat struck a rock and the girl jumped into water. Then she swam to the shore after spending the whole night in the water. During that time, she covered a distance of eight miles. early in the morning, she saw a light ahead. she knew she was near the shore because the light  was high up on the cliff . on arriving at the shore, the girl struggled up the cliff towards the light she had seen. that was all she remembered. when she woke up a day later, she was in a hospital.
 
+*02*
+> The girl finally was able to explain the whole thing happened to her. i found her at the shore in one morning when i was doing morning-excersize. she was lying in the sand and lost consciousness, so i took her to the local hospital.she set out from the shore to a small island at the prior afternoon. towards evening, her boat struck a rock and fell apart, she had to jump into the sea. after covering a distance of eight miles, she finally saw a light on the cliff. she knew she was near the shore, so she struggled to swim towards the light. she struggled up to the cliff, and she fainted after she got there.she woke up a day later,and she cried when she found herself in the hospital.
+***
+## words and phrases
+```
+73. set的过去式也是set；
+74. towards evenning:傍晚时分；
+75. cover a distance of:走了多远的路，用cover；
+```
