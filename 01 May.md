@@ -530,3 +530,11 @@
 74. towards evenning:傍晚时分；
 75. cover a distance of:走了多远的路，用cover；
 ```
+# Lesson34 	Quick work!
+*01*
+>Yesterday afternoon, i received a letter from local station, and it made me worried all the time. you know, if you lived in a such country, the most horrifying thing is to be wanted by the policemen. But i still went into the station this morning, a smiling and creepy policeman told me that my bike was found three days ago, and now it is in the train towards our city.it was a total surprise, and was also a amusement. because the bike was lost twenty years old, i was fifteen years old at that time.great country, with our great policemen!
+*02*
+>Don was worried all week. last tuesday, he received a letter from local police station. in the letter, he was asked to call at the station. don wondered why the policemen wanted him, at last he went to the station this morning,and he now no more worried. at the station, he was told by a smiling policeman that his bike was found. five days ago, the bike was picked up in a small viliage four hundred miles away. it is now been sent to his home by train. don was most surprised when he heared the news. he was amused, too. because he never expect the bike to be found. it was stolen twenty years ago when don was a boy of fifteen.
+***
+```
+```
