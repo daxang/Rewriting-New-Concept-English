@@ -538,3 +538,38 @@
 ***
 ```
 ```
+
+# Lesson35 Stop the thieves!
+*01*
+> Roy was once a taxi driver,but a while  ago, he became a bus driver and enjoyed his new job very much, because he found the new job far more exciting to him. One time ,he noticed two thieves coming out of a bank with big bags when he just was driving the bus alone wall street.the thieves were rushing to their car to get away,roy didn't stop his bus but accelerating the bus towards them. one of them got a fright and left his bag onto the ground. when the thieves started the car, roy's bus had been driven into the back of it. the thieves finally got away with the badly damaged car. roy then stopped byside the street, and called the police. he told that the thieves were driving a bad damaged car to somewhere. about ten minutes later, they were caught ,because it was too easy to recognise the car.
+*02*
+>Roy used to drive a taxi. a short while ago he became a bus driver and he has not regretted it. he is finding his new job far more exciting. when he was driving alone a street, he saw two thieves rush out of a bank and run towards a waitting car. one of them was carrying a big bag full of money. roy acted quickly and drove the bus straightly at the thieves. the one with money got such a fright that he dropped the bag. as the thieves were trying to get away in their car, roy drove his bus into the back of the car. while the battered car finally got away, roy stopped his bus and telephoned the police. the thieves' car was badly damaged and easy to recognise. shortly afterwards, the police stopped the car and both men were arrested.
+***
+## words and phrases
+```
+76.see sb do sth:看到某人正在做某事，注意动词原形，不是ing；
+77.batter:v. 连续猛击；虐待殴打；抨击；（墙）向后倾斜；形成坡度；（风、雨或风暴等的）袭击，打坏;n. （用鸡蛋、牛奶、面粉等调成的）糊状物；击球手；墙面的倾斜；（印刷）字面磨损处；虐待；狂欢;
+78.get a fright:吓一大跳；
+79.drive into the back of the car:撞到汽车的尾部；
+80.shortly afterwards:不久以后；没过多久
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
