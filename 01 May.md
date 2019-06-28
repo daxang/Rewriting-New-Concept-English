@@ -537,6 +537,7 @@
 >Don was worried all week. last tuesday, he received a letter from local police station. in the letter, he was asked to call at the station. don wondered why the policemen wanted him, at last he went to the station this morning,and he now no more worried. at the station, he was told by a smiling policeman that his bike was found. five days ago, the bike was picked up in a small viliage four hundred miles away. it is now been sent to his home by train. don was most surprised when he heared the news. he was amused, too. because he never expect the bike to be found. it was stolen twenty years ago when don was a boy of fifteen.
 ***
 ```
+
 ```
 
 # Lesson35 Stop the thieves!
@@ -554,6 +555,16 @@
 80.shortly afterwards:不久以后；没过多久
 ```
 
+# Lesson36    Across the channel
+*01*
+>Debbie was eleven years old but has a great target: she wants to be the first girl who swim across the enligh channel below the age of twelve. she will set out next morning from french coast. in the last two years, her father has been trainning her all the time. and tomorrow morning he will set out with her. everyone asserts Debbie surely will succeed because her hard trainning and great resolution, all her classmates and her mother will be waiting for her at the enlish coast, her mother has a great faith in her daughter, because she had swum across the channel at the age of 15. for safety,debbie's father will be watching her in a boat. debbie will rest for a short while every two hours during the adventure. she could have a little water but no solid food. so let us wait for her good news.
+
+*02*
+>Debbie Hart is going to swim across the english channel tomorrow. she is going to set out from the french coast at five oclock in the morning.Debbie is only eleven years old and she hopes to set up a new world record. she is a strong swimmer and many people feel that she is sure to succeed .debbie's father will set out with her in a small boat. Mr Hart has trained her all the time for years. tomorrow he will be watching her anxiously as she swim the long distance to england. debbie intends to take a shor rest every two hours. she will have something to drink but she will not eat any solid food. most of debbie's school friends wil be waiting for her on the coast. among them will be debbie's mother, who swam the english channel herself when she was a girl.
+***
+## words and phrases
+```
+```
 
 
 
