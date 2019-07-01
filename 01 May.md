@@ -566,6 +566,13 @@
 ```
 ```
 
+# Lesson 37
+*01*
+>The Olympic Games will be held in our country in four years. As a great many people will be visiting our country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool. they will also be building new roads and a special railway line. the games will be held outside of the capital and the whole area is called the olympic city. workers will have completed all the buildings by the end of the year. the fantastic modern building was designed by gunter. everybody will be watching anxiously as the new building go up. we are all very excited and are looking forward to the olympic games because they have never been held in this country.
+***
+## words and phrases
+```
+```
 
 
 
